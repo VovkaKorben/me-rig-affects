@@ -7,6 +7,8 @@
 
 2. ручками добавляем в `me_prepare.sql` для родительских групп нужные категории 
 можно сразу проверять наши правки онлайн (Flask -> make_me_groups.py)
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
-3. после того, как все группы выставлены, запускаем функцию из того же скрипта (make_me_groups.py -> make_groups() )
+![Иллюстрация к проекту](https://github.com/VovkaKorben/me-rig-affects/master/check_example.png)
+
+https://github.com/
+4. после того, как все группы выставлены, запускаем функцию из того же скрипта (make_me_groups.py -> make_groups() )
 
